@@ -1,0 +1,43 @@
+body {
+	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	background-color:  #eff;
+	margin: 10%;
+	padding: 0;
+}
+.resizable { 
+	width: 750px; 
+	height: 475px; 
+	min-width: 500px;
+	min-height: 250px;
+	padding: 0.5em; 
+	overflow: hidden;
+}
+.resizable h3 { 
+	text-align: center; 
+	margin: 0; 
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+h1 {
+	text-shadow:0 0 0;
+}
+h2 {
+	color: #DC4626;
+	text-transform: uppercase;
+	margin: 1em 0 1em 0;
+}
+f
+
+
+
+
+
+
+
+
+
+
+
